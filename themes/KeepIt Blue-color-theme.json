@@ -473,7 +473,7 @@
 			"entity.name.function.powershell"
 		  ],
 		  "settings": {
-			"foreground": "#FF8484"
+			"foreground": "#turnintocyan"
 		  }
 		},
 		{
@@ -714,7 +714,7 @@
 		  ],
 		  "settings": {
 			"foreground": "#22ECDB"
-		  }
+		  }[[[
 		},
 		{
 		  "scope": [
