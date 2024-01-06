@@ -3,11 +3,16 @@
   "displayName": "KeepIt",
   "description": "VSCode dark theme",
   "version": "0.0.1",
+  "publisher": "adam2am",
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "theme"
   ],
   "contributes": {
     "themes": [
