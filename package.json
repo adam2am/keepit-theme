@@ -5,7 +5,7 @@
   "version": "0.0.2",
   "publisher": "adam2am",
   "engines": {
-    "vscode": "^1.85.0"
+    "vscode": "^1.84.0"
   },
   "categories": [
     "Themes"
