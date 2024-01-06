@@ -90,7 +90,7 @@
 	  "editorBracketHighlight.foreground2": "#00afb5",
 	  "editorBracketHighlight.foreground3": "#768FFF",
 	  "editorBracketHighlight.foreground4": "#b98eff",
-	  "editorBracketHighlight.foreground5": "#0094FF",
+	  "editorBracketHighlight.foreground5": "#42AAFF",
 	  "editorBracketHighlight.foreground6": "#E5E5EB",
 	  "editorBracketHighlight.unexpectedBracket.foreground": "#E35535",
 	  "editor.foldBackground": "#1e2531",
@@ -306,7 +306,7 @@
 	  "terminal.ansiYellow": "#6CB6FF",
 	  "terminal.ansiBlue": "#768FFF",
 	  "terminal.ansiMagenta": "#00afb5",
-	  "terminal.ansiCyan": "#0094FF",
+	  "terminal.ansiCyan": "#42AAFF",
 	  "terminal.ansiWhite": "#E5E5EB",
 	  "terminal.ansiBrightBlack": "#768FFF",
 	  "terminal.ansiBrightRed": "#E35535",
@@ -314,7 +314,7 @@
 	  "terminal.ansiBrightYellow": "#6CB6FF",
 	  "terminal.ansiBrightBlue": "#768FFF",
 	  "terminal.ansiBrightMagenta": "#00afb5",
-	  "terminal.ansiBrightCyan": "#0094FF",
+	  "terminal.ansiBrightCyan": "#42AAFF",
 	  "terminal.ansiBrightWhite": "#E5E5EB",
 	  "terminal.background": "#202734",
 	  "terminal.foreground": "#E5E5EB",
@@ -474,7 +474,7 @@
 		  "entity.name.function.powershell"
 		],
 		"settings": {
-		  "foreground": "#8cf392"
+		  "foreground": "#fdfdc3dd"
 		}
 	  },
 	  {
@@ -551,7 +551,7 @@
 		  "keyword.cmake"
 		],
 		"settings": {
-		  "foreground": "#6CB6FF",
+		  "foreground": "#B98EFF",
 		  
 		}
 	  },
@@ -714,7 +714,7 @@
 		  "keyword.const.go"
 		],
 		"settings": {
-		  "foreground": "#0094FF"
+		  "foreground": "#42AAFF"
 		}
 	  },
 	  {
@@ -1090,7 +1090,7 @@
 		  "entity.other.attribute-name.class punctuation.definition.entity"
 		],
 		"settings": {
-		  "foreground": "#0094FF"
+		  "foreground": "#42AAFF"
 		}
 	  },
 	  {
@@ -1098,7 +1098,7 @@
 		  "entity.other.attribute-name.parent-selector-suffix punctuation.definition.entity"
 		],
 		"settings": {
-		  "foreground": "#0094FF"
+		  "foreground": "#42AAFF"
 		}
 	  },
 	  {
@@ -1217,7 +1217,7 @@
 		"foreground": "#E5E5EB"
 	  },
 	  "variable.defaultLibrary": {
-		"foreground": "#0094FF"
+		"foreground": "#42AAFF"
 	  },
 	  "class.declaration": {
 		"foreground": "#b98eff"
