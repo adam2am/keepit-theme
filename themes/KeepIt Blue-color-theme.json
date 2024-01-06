@@ -89,7 +89,7 @@
 	  "editorBracketHighlight.foreground1": "#6CB6FF",
 	  "editorBracketHighlight.foreground2": "#00afb5",
 	  "editorBracketHighlight.foreground3": "#768FFF",
-	  "editorBracketHighlight.foreground4": "#b98eff",
+	  "editorBracketHighlight.foreground4": "#6983fb",
 	  "editorBracketHighlight.foreground5": "#42AAFF",
 	  "editorBracketHighlight.foreground6": "#E5E5EB",
 	  "editorBracketHighlight.unexpectedBracket.foreground": "#E35535",
@@ -534,8 +534,6 @@
 		  "keyword.operator.type.php",
 		  "keyword.operator.increment-decrement.php",
 		  "keyword.operator.increment-increment.php",
-		  "punctuation.support.type.property-name.begin.json",
-		  "punctuation.support.type.property-name.end.json",
 		  "keyword.operator.string.php",
 		  "keyword.operator.ternary.php",
 		  "keyword.operator.variadic.php",
@@ -551,8 +549,18 @@
 		  "keyword.cmake"
 		],
 		"settings": {
-		  "foreground": "#B98EFF",
-		  
+		  "foreground": "#B98EFF", // mking the brackets purple, annoying when its all blue, should be E5E5EB60
+		}
+	  },
+	  {
+		"scope": [
+		  "punctuation.support.type.property-name.begin.json",
+		  "punctuation.support.type.property-name.end.json",
+		  "punctuation.definition.array.begin.json",
+		  "punctuation.definition.array.begin.json"
+		],
+		"settings": {
+		  "foreground": "#E5E5EB60"
 		}
 	  },
 	  {
