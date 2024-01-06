@@ -467,7 +467,7 @@
 			"meta.method.groovy",
 			"meta.bracket.square.access",
 			"entity.name.function-call.elixir",
-			"punctuation.output.liquid support.variable.liquid",
+			"punctuation.output.liquid support.variable.liquid",vs
 			"meta.function.echo.edge source.js keyword.operator.error-control.js",
 			"entity.name.type.variant.gdscript",
 			"entity.name.function.powershell"
@@ -714,7 +714,7 @@
 		  ],
 		  "settings": {
 			"foreground": "#22ECDB"
-		  }[[[
+		  },
 		},
 		{
 		  "scope": [
