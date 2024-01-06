@@ -374,7 +374,7 @@
 		  {
 			  "scope": "meta.attribute.id.html string", 
 		"settings": {
-			"fontStyle": "bold"
+			"fontStyle": "" // nothing, but didnt delete in case wanna do smth later
 		}
 	  },
 	  
