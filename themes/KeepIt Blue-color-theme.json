@@ -372,7 +372,7 @@
 		}
 	  },
 		  {
-			  "scope": "meta.attribute.id.html", 
+			  "scope": "meta.attribute.id.html string", 
 		"settings": {
 			"fontStyle": "bold"
 		}
