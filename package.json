@@ -12,12 +12,20 @@
   ],
   "keywords": [
     "dark",
-    "theme"
+    "theme",
+    "arc",
+    "blue",
+    "purple"
   ],
   "contributes": {
     "themes": [
+			{
+				"label": "KeepIt Blue (pink functions)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/KeepIt Blue-pink-color-theme.json"
+			},
       {
-        "label": "KeepIt Blue",
+        "label": "KeepIt Blue (yellow functions)",
         "uiTheme": "vs-dark",
         "path": "./themes/KeepIt Blue-color-theme.json"
       }
