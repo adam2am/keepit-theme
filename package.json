@@ -2,7 +2,7 @@
   "name": "keepit",
   "displayName": "KeepIt",
   "description": "VSCode dark theme",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "publisher": "adam2am",
   "engines": {
     "vscode": "^1.84.0"
@@ -38,7 +38,7 @@
         "label": "KeepIt Blue (yellow functions)",
         "uiTheme": "vs-dark",
         "path": "./themes/KeepIt Blue-color-theme.json"
-      }	  
+      }
     ]
   }
 }
