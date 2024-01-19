@@ -17,6 +17,7 @@
     "blue",
     "purple"
   ],
+  "license": "MIT",
   "contributes": {
     "themes": [
       {
