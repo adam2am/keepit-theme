@@ -18,6 +18,10 @@
     "purple"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adam2am/keepit-theme.git"
+  },
   "contributes": {
     "themes": [
       {
