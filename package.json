@@ -2,7 +2,7 @@
   "name": "keepit",
   "displayName": "KeepIt",
   "description": "VSCode dark theme",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "publisher": "adam2am",
   "engines": {
     "vscode": "^1.84.0"
@@ -24,12 +24,12 @@
   },
   "contributes": {
     "themes": [
-	  {
+      {
         "label": "KeepIt Blue (pink function, pink conditions, variables underlined, less harsh white)",
         "uiTheme": "vs-dark",
         "path": "./themes/KeepIt Blue-double-pink-color-lessharsh-theme.json"
       },
-	  {
+      {
         "label": "KeepIt Blue (pink function, variables underlined, less harsh white)",
         "uiTheme": "vs-dark",
         "path": "./themes/KeepIt Blue-pink-color-lessharsh-theme.json"
