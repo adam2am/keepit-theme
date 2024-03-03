@@ -474,7 +474,19 @@
 		  "entity.name.function.powershell"
 		],
 		"settings": {
-		  "foreground": "#F38CEC"
+		  "foreground": "#F38CEC",
+		}
+	  },
+	  {
+		  "scope": [
+		  "support.function",
+		  "entity.name.function",
+		  "punctuation.output.liquid support.variable.liquid",
+		  "entity.name.type.variant.gdscript",
+		  "entity.name.function.powershell"
+		],
+		"settings": {
+		  "fontStyle": "underline"
 		}
 	  },
 	  {
