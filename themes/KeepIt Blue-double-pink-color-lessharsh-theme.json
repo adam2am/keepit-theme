@@ -620,6 +620,16 @@
 		  "foreground": "#6CB6FF"
 		}
 	  },
+{	  
+		"scope": [
+			"keyword.control.flow.js",
+			"storage.modifier.async",
+			"keyword.control.from"
+		],
+		"settings": {
+		  "foreground": "#B98EFF"
+		}
+	  },
 	  {
 		"scope": [
 		  "punctuation",
