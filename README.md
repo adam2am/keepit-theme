@@ -4,7 +4,7 @@ Tried to keep it as blue/purple as possible, but had to add some contrast (littl
 - pink that matches blue/purple type of style 
 - yellow cuz I'm used to dark+ vs code standart dark theme.
 
-Colors UPD last version 04.03.2024:<br>
+Colors UPD (last version 04/03/2024):<br>
 Functions = Pink Underlined, Variables = White Underlined, Parameters = Greenish, <br>
 Imported Component = Purple,<br>
 Conditional Logic = Mostly Pink (so it doesnt blend with purple components), but Async and Flow (return, await) = Purple<br>
