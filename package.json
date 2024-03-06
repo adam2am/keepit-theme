@@ -50,18 +50,4 @@
 				"path": "./themes/test.json"
 			},
 		]
-	},
-	"__metadata": {
-		"id": "b3b02fe0-d075-4f5b-9c55-03dc526c677c",
-		"publisherId": "c16e7aef-2217-4961-b45c-6383371a4090",
-		"publisherDisplayName": "adam2am",
-		"targetPlatform": "undefined",
-		"isApplicationScoped": false,
-		"updated": true,
-		"isPreReleaseVersion": false,
-		"hasPreReleaseVersion": false,
-		"installedTimestamp": 1709741935090,
-		"pinned": false,
-		"preRelease": false
 	}
-}
