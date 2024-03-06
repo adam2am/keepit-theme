@@ -1,53 +1,54 @@
 {
-	"name": "keepit",
-	"displayName": "KeepIt",
-	"description": "VSCode dark theme",
-	"version": "0.0.15",
-	"publisher": "adam2am",
-	"engines": {
-		"vscode": "^1.84.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"keywords": [
-		"dark",
-		"theme",
-		"arc",
-		"blue",
-		"purple"
-	],
-	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/adam2am/keepit-theme.git"
-	},
-	"contributes": {
-		"themes": [
-			{
-				"label": "Main - KeepIt Blue+Purple (logic conditions, functions)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/KeepIt Blue-double-pink-color-lessharsh-theme.json"
-			},
-			{
-				"label": "KeepIt Blue (pink function, variables underlined, less harsh white)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/KeepIt Blue-pink-color-lessharsh-theme.json"
-			},
-			{
-				"label": "KeepIt Blue (pink functions)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/KeepIt Blue-pink-color-theme.json"
-			},
-			{
-				"label": "KeepIt Blue (yellow functions)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/KeepIt Blue-color-theme.json"
-			},
-			{
-				"label": "test(inProgress)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/test.json"
-			},
-		]
-	}
+  "name": "keepit",
+  "displayName": "KeepIt",
+  "description": "VSCode dark theme",
+  "version": "0.0.15",
+  "publisher": "adam2am",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "theme",
+    "arc",
+    "blue",
+    "purple"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adam2am/keepit-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Main - KeepIt Blue+Purple (logic conditions, functions)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/KeepIt Blue-double-pink-color-lessharsh-theme.json"
+      },
+      {
+        "label": "KeepIt Blue (pink function, variables underlined, less harsh white)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/KeepIt Blue-pink-color-lessharsh-theme.json"
+      },
+      {
+        "label": "KeepIt Blue (pink functions)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/KeepIt Blue-pink-color-theme.json"
+      },
+      {
+        "label": "KeepIt Blue (yellow functions)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/KeepIt Blue-color-theme.json"
+      },
+		{
+			"label": "test(inProgress)",
+			"uiTheme": "vs-dark",
+			"path": "./themes/test.json"
+		}
+    ]
+  }
+}
