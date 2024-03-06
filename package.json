@@ -1,49 +1,67 @@
 {
-  "name": "keepit",
-  "displayName": "KeepIt",
-  "description": "VSCode dark theme",
-  "version": "0.0.15",
-  "publisher": "adam2am",
-  "engines": {
-    "vscode": "^1.84.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "dark",
-    "theme",
-    "arc",
-    "blue",
-    "purple"
-  ],
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/adam2am/keepit-theme.git"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Main - KeepIt Blue+Purple (logic conditions, functions)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/KeepIt Blue-double-pink-color-lessharsh-theme.json"
-      },
-      {
-        "label": "KeepIt Blue (pink function, variables underlined, less harsh white)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/KeepIt Blue-pink-color-lessharsh-theme.json"
-      },
-      {
-        "label": "KeepIt Blue (pink functions)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/KeepIt Blue-pink-color-theme.json"
-      },
-      {
-        "label": "KeepIt Blue (yellow functions)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/KeepIt Blue-color-theme.json"
-      }
-    ]
-  }
+	"name": "keepit",
+	"displayName": "KeepIt",
+	"description": "VSCode dark theme",
+	"version": "0.0.15",
+	"publisher": "adam2am",
+	"engines": {
+		"vscode": "^1.84.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"dark",
+		"theme",
+		"arc",
+		"blue",
+		"purple"
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/adam2am/keepit-theme.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Main - KeepIt Blue+Purple (logic conditions, functions)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/KeepIt Blue-double-pink-color-lessharsh-theme.json"
+			},
+			{
+				"label": "KeepIt Blue (pink function, variables underlined, less harsh white)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/KeepIt Blue-pink-color-lessharsh-theme.json"
+			},
+			{
+				"label": "KeepIt Blue (pink functions)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/KeepIt Blue-pink-color-theme.json"
+			},
+			{
+				"label": "KeepIt Blue (yellow functions)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/KeepIt Blue-color-theme.json"
+			},
+			{
+				"label": "test(inProgress)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/test.json"
+			},
+		]
+	},
+	"__metadata": {
+		"id": "b3b02fe0-d075-4f5b-9c55-03dc526c677c",
+		"publisherId": "c16e7aef-2217-4961-b45c-6383371a4090",
+		"publisherDisplayName": "adam2am",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1709741935090,
+		"pinned": false,
+		"preRelease": false
+	}
 }
