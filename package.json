@@ -2,7 +2,7 @@
   "name": "keepit",
   "displayName": "KeepIt",
   "description": "VSCode dark theme",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "publisher": "adam2am",
   "engines": {
     "vscode": "^1.84.0"
@@ -44,11 +44,11 @@
         "uiTheme": "vs-dark",
         "path": "./themes/KeepIt Blue-color-theme.json"
       },
-		{
-			"label": "test(inProgress)",
-			"uiTheme": "vs-dark",
-			"path": "./themes/test.json"
-		}
+      {
+        "label": "test(inProgress)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/test.json"
+      }
     ]
   }
 }
