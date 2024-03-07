@@ -436,7 +436,8 @@
 		  "meta.decorator variable.other.readwrite.ts",
 		  "variable.parameter.gdscript",
 		  "entity.name.variable.parameter",
-		  "variable.parameter"
+		  "variable.parameter",
+		  "entity.name.label"
 		],
 		"settings": {
 		  "foreground": "#00afb5",
@@ -457,6 +458,7 @@
 		  "entity.name.function",
 		  "meta.function-call",
 		  "meta.function",
+     	   "storage.type",
 		  "meta.method.declaration",
 		  "meta.function-call support",
 		  "variable.language.super.ts",
@@ -625,7 +627,7 @@
 			"keyword.control.flow",
 			"storage.modifier.async",
 			"keyword.control.from"
-		],
+		],		 
 		"settings": {
 		  "foreground": "#B98EFF"
 		}
@@ -797,7 +799,6 @@
 		  "entity.name.type",
 		  "support.type",
 		  "support.class",
-		  "storage.type",
 		  "entity.other.inherited-class",
 		  "keyword.type",
 		  "storage.type.java",
