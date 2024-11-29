@@ -25,6 +25,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "FinalOne - KeepIt Blue+Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/[final-KeepIt Blue.json"
+      },
+      {
         "label": "Main - KeepIt Blue+Purple (logic conditions, functions)",
         "uiTheme": "vs-dark",
         "path": "./themes/KeepIt Blue-double-pink-color-lessharsh-theme.json"
