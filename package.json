@@ -2,7 +2,7 @@
   "name": "keepit",
   "displayName": "KeepIt",
   "description": "VSCode dark theme",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "publisher": "adam2am",
   "engines": {
     "vscode": "^1.84.0"
