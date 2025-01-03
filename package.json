@@ -32,12 +32,12 @@
                         {
                                 "label": "process-KeepIt (couple colors from Tokyo)",
                                 "uiTheme": "vs-dark",
-                                "path": "./themes/process-KeepIt-couple-colors-from-Tokyo"
+                                "path": "./themes/current in-process/process-KeepIt-couple-colors-from-Tokyo.json"
                         },
                         {
                                 "label": "process-KeepIt-Alternative (fork-Tokyo (probably gonn drop))",
                                 "uiTheme": "vs-dark",
-                                "path": "./themes/process-alternative-tokyo-fork.json"
+                                "path": "./themes/current in-process/process-alternative-tokyo-fork.json"
                         }
                 ]
         }
