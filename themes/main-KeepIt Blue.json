@@ -450,14 +450,6 @@
                 },
                 {
                         "scope": [
-                                "text.html",
-                        ],
-                        "settings": {
-                                "foreground": "#9AA5CE",
-                        }
-                },
-                {
-                        "scope": [
                                 "entity.name.function",
                         ],
                         "settings": {
